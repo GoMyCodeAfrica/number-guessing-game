@@ -58,7 +58,3 @@ $submitBtn.click(function (ev) {
 $newGameBtn.click(function () {
 	location.reload();
 });
-
-function isValidNumber (numStr) {
-	
-}
