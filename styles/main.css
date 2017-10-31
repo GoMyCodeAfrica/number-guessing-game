@@ -1,0 +1,15 @@
+body {
+	width: 650px;
+	margin: 0 auto;
+}
+
+p {
+	font-size: 1.25rem;
+}
+
+.feedback {
+	transform: uppercase;
+	color: white;
+	background-color: red;
+	padding: 10px;
+}
